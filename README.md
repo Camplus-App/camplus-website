@@ -1,6 +1,5 @@
 # camplus-website
 
-To Do:
+This repository contains the files for the website at https://camplus.network/
 
-1) Update screenshots with relevent displays 
-2) Update Social Media handles: Github , Twitter , Instagram
+Tasks left: SEO optimisation to get 1st rank on 'Camplus', 'Camp+', 'Camplus App', 'Camplus Network' and 'Varopro' keyword searches.
